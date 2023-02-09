@@ -1,0 +1,313 @@
+{
+  "drinks": [
+    {
+      "idDrink": "1",
+      "strDrink": "Piwo",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "kufel",
+      "strInstructions": "Otwierasz butelkę/puszkę. Jak ktoś lubi, to do szkła leje i gotowe",
+      "strDrinkThumb": "https://amico.market/cache/images/zoom/2019/img_g_cron_9561987-61f61340917746.08803513.jpg",
+      "strRating": [5, 5, 5],
+      "strIngredients": ["Piwo"],
+      "strMeasures": ["pół litra"]
+    },
+    {
+      "idDrink": "2",
+      "strDrink": "Woda z sokiem malinowym",
+      "strAlcoholic": "Non-alcoholic",
+      "strGlass": "szklanka",
+      "strInstructions": "Lejesz trochę soku na dno szklanki. Zalewasz wodą.",
+      "strDrinkThumb": "https://dziecisawazne.pl/wp-content/uploads/2013/06/syropy-owocowe_m.jpg",
+      "strRating": [5, 2, 3, 4],
+      "strIngredients": ["Woda niegazowana", "Sok malinowy"],
+      "strMeasures": ["250ml", "25ml"]
+    },
+    {
+      "idDrink": "3",
+      "strDrink": "Woda z czajnika",
+      "strAlcoholic": "Non-alcoholic",
+      "strGlass": "szklanka",
+      "strInstructions": "Wlewasz wodę do czajnika (nie trzeba gotować tej wody). Potem wlewasz do szklanki ",
+      "strDrinkThumb": "https://i0.wp.com/domhobby.pl/wp-content/uploads/2018/08/2_woda-bez-kamienia-w-czajniku-to-mozliwe.jpg?resize=750%2C500",
+      "strRating": [3, 3, 4, 4, 5],
+      "strIngredients": ["Woda z kranu"],
+      "strMeasures": ["250ml"]
+    },
+    {
+      "idDrink": "4",
+      "strDrink": "Koktajl owocowy",
+      "strAlcoholic": "Non-alcoholic",
+      "strGlass": "collins",
+      "strInstructions": "W blenderze zmiksuj kilka kostek lodu, szklankę wody i kilka kawałków ulubionych owoców. Przelej do szklanki i podaj z plasterkiem cytryny na dekorację.",
+      "strDrinkThumb": "https://cdn.galleries.smcloud.net/t/galleries/gf-aBr5-M1Mu-dZnX_koktajle-mleczno-owocowe-prawdziwy-smak-lata-1920x1080-nocrop.jpg",
+      "strRating": [4, 3, 5, 2],
+      "strIngredients": ["Lód", "Woda", "Owoce", "Cytryna (dekoracja)"],
+      "strMeasures": [
+        "kilka kostek",
+        "1 szklanka",
+        "kilka kawałków",
+        "1 plaster"
+      ]
+    },
+    {
+      "idDrink": "5",
+      "strDrink": "Margarita",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "szklanka do koktajli",
+      "strInstructions": "Wymieszaj tequilę, sok z cytryny i likier Cointreau w shakerze z lodem. Potem posmaruj brzeg kieliszka solą i przelej do niego drinka. Dekoruj plasterkiem cytryny.",
+      "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/wpxpvu1439905379.jpg",
+      "strRating": [4, 3, 2, 5],
+      "strIngredients": [
+        "Tequila",
+        "Sok z cytryny",
+        "Likier Cointreau",
+        "Sól",
+        "Cytryna (dekoracja)"
+      ],
+      "strMeasures": ["50ml", "25ml", "25ml", "Opcjonalnie", "Opcjonalnie"]
+    },
+    {
+      "idDrink": "6",
+      "strDrink": "Whisky z colą",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "szklanka do whisky",
+      "strInstructions": "Lejesz whisky do szklanki. Zalewasz colą według uznania.",
+      "strDrinkThumb": "https://hurtowniaalkoholi.pl/photos/zoom/DRJDMC.jpg",
+      "strRating": [4, 3, 5, 3],
+      "strIngredients": ["Whisky", "Cola"],
+      "strMeasures": ["50ml", "250ml"]
+    },
+    {
+      "idDrink": "7",
+      "strDrink": "Pina Colada",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "hurricane",
+      "strInstructions": "Wymieszaj kokosowy mleczko, rum i sok ananasowy. Wszystko zmiksuj z lodem. Podaj z kostką lodu i dekoruj plasterkiem ananasa.",
+      "strDrinkThumb": "https://images.immediate.co.uk/production/volatile/sites/30/2013/11/pina-colada-c68aca7.jpg",
+      "strRating": [4, 3, 2, 4, 5],
+      "strIngredients": [
+        "Kokosowe mleczko",
+        "Rum",
+        "Sok ananasowy",
+        "Lód",
+        "Plasterki ananasa"
+      ],
+      "strMeasures": ["100ml", "50ml", "200ml", "2 szt", "1 szt"]
+    },
+    {
+      "idDrink": "8",
+      "strDrink": "Koktajl Mango",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "collins",
+      "strInstructions": "Wszystkie składniki dokładnie blendujemy. Podajemy z lodem i ozdabiamy plastrami mango.",
+      "strDrinkThumb": "https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/smoothie_bananowe_z_mango_01.jpg",
+      "strRating": [5, 3, 4, 2],
+      "strIngredients": ["Mango", "Wódka", "Sok pomarańczowy", "Sok z limonki"],
+      "strMeasures": ["1/2", "3 kieliszki", "1/4 szklanki", "1/4 szklanki"]
+    },
+    {
+      "idDrink": "9",
+      "strDrink": "Mojito z arbuzem",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "highball",
+      "strInstructions": "W misce rozcieramy łyżkę cukru z listkami mięty. Dodajemy plaster arbuza i kilka kostek lodu. Wlewamy 50ml rumu i polewamy sokiem z połówki limonki. Całość mieszamy i podajemy z lodem.",
+      "strDrinkThumb": "https://www.drinkomania.pl/wp-content/uploads/2019/10/arbuzowe-mohito-drink.jpg",
+      "strRating": [4, 3, 5, 2],
+      "strIngredients": [
+        "Cukier",
+        "Mięta",
+        "Arbuz",
+        "Lód",
+        "Rum",
+        "Sok z limonki"
+      ],
+      "strMeasures": [
+        "1 łyżka",
+        "kilka listków",
+        "1/4",
+        "kilka kostek",
+        "50ml",
+        "1/2 szklanki"
+      ]
+    },
+    {
+      "idDrink": "10",
+      "strDrink": "French 75",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "coupe",
+      "strInstructions": "Wymieszaj gin, sok z cytryny i cukier w shakerze z lodem. Przelej do szklanki do koktajli i dodaj kieliszek szampana. Posyp odrobiną cukru pudru i podaj.",
+      "strDrinkThumb": "https://upload.wikimedia.org/wikipedia/commons/5/54/0_Canon_de_75_mm_mod%C3%A8le_1897_-_Mus%C3%A9e_de_l%27arm%C3%A9e_%C3%A0_Paris_2.JPG",
+      "strRating": [4, 2, 5, 3],
+      "strIngredients": [
+        "Gin",
+        "Sok z cytryny",
+        "Cukier",
+        "Szampan",
+        "Cukier puder"
+      ],
+      "strMeasures": [
+        "2 1/2 uncji",
+        "1 uncja",
+        "1/2 uncji",
+        "4 uncje",
+        "odrobina"
+      ]
+    },
+    {
+      "idDrink": "11",
+      "strDrink": "Manhattan",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "szklanka do whisky",
+      "strInstructions": "Nalej składniki do shakera z lodem. Wstrząśnij i przelej do szklanki. Dodaj kostki lodu i ozdób kostką cukru.",
+      "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/ec2jtz1504350429.jpg",
+      "strRating": [5, 2, 3, 4],
+      "strIngredients": ["Whisky", "Wermut", "Kostka cukru"],
+      "strMeasures": ["4 cl", "1,5 cl", "1 kostka"]
+    },
+    {
+      "idDrink": "12",
+      "strDrink": "Smoothie bananowo-kokosowe",
+      "strAlcoholic": "Non-alcoholic",
+      "strGlass": "słoik",
+      "strInstructions": "Do blendera wrzucasz pokrojonego banana, łyżkę startego kokosa i szklankę mleka kokosowego. Blendujesz do uzyskania gładkiej konsystencji i podajesz na zimno.",
+      "strDrinkThumb": "https://jz.img0.cz/media/5e/92/5e923815-3919-4a99-b9cd-91cf3eb016a9.jpg.570x570_q85_crop.jpg",
+      "strRating": [4, 3, 2, 5],
+      "strIngredients": ["Banan", "Kokos starty", "Mleko kokosowe"],
+      "strMeasures": ["1 sztuka", "1 łyżka", "1 szklanka"]
+    },
+    {
+      "idDrink": "13",
+      "strDrink": "Kir Royal",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "kieliszek do szampana",
+      "strInstructions": "Wlej sok z czerwonej porzeczki do flute'a, a następnie zalej szampanem. Posyp szczyptą cukru pudru i podaj z kostką lodu.",
+      "strDrinkThumb": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/3d6c1b43-cb7a-4966-823b-486f4b558053/Derivates/e2b0ad47-a2e2-4639-a68d-a0e3f170a9d1.jpg",
+      "strRating": [3, 4, 2, 5],
+      "strIngredients": [
+        "Szampan",
+        "Sok z czerwonej porzeczki",
+        "Cukier puder",
+        "Lód"
+      ],
+      "strMeasures": ["150ml", "50ml", "szczypta", "kostka"]
+    },
+    {
+      "idDrink": "14",
+      "strDrink": "Cosmopolitan",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "martini",
+      "strInstructions": "Wszystkie składniki umieszczasz w shakerze z lodem. Potrząsasz i przelewasz do szklanki koktajlowej. Możesz posypać skórką cytryny lub pomarańczy.",
+      "strDrinkThumb": "https://naszedrinki.pl/wp-content/uploads/2014/05/Cosmopolitan-drink-1170x778.jpg",
+      "strRating": [4, 3, 5, 2],
+      "strIngredients": [
+        "Wódka",
+        "Cointreau",
+        "Sok z cytryny",
+        "Sok z arbuza",
+        "Sok z malin"
+      ],
+      "strMeasures": ["45ml", "30ml", "30ml", "30ml", "30ml"]
+    },
+    {
+      "idDrink": "15",
+      "strDrink": "Szkocka Woda",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "Old Fashioned glass",
+      "strInstructions": "Wymieszaj składniki w kieliszku do whisky i zalej lodem. Wymieszaj i podaj z plastrem cytryny i plasterkiem imbiru.",
+      "strDrinkThumb": "https://bevvyco.s3.amazonaws.com/img/drinks/ao/uao/scotch-and-water-f1efd3de41bcae3161f1159e51ee0b36-lg.jpg",
+      "strRating": [3, 5, 4, 2],
+      "strIngredients": ["Whisky szkocka", "Woda gazowana", "Cytryna", "Imbir"],
+      "strMeasures": ["50ml", "150ml", "plaster", "plaster"]
+    },
+    {
+      "idDrink": "16",
+      "strDrink": "Gorzka czekolada z mlekiem i whiskey",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "kubek",
+      "strInstructions": "Rozpuszczasz kostki gorzkiej czekolady z mlekiem i dodajesz odrobinę whiskey. Mieszasz dokładnie i podgrzewasz aż do momentu aż czekolada się rozpuści. Pijesz ciepłe.",
+      "strDrinkThumb": "https://koktajl.tv/tiny_files/BLOG/drinki-z-whisky.jpg",
+      "strRating": [4, 3, 3, 2],
+      "strIngredients": ["Gorzka czekolada", "Mleko", "Whiskey"],
+      "strMeasures": ["100g", "500ml", "100ml"]
+    },
+    {
+      "idDrink": "17",
+      "strDrink": "Tequila Sunrise",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "highball",
+      "strInstructions": "Umieść kostki lodu w szklance, dodaj tequilę i sok pomarańczowy. Delikatnie wymieszaj i zakończ sokiem grenadyny, aby uzyskać efekt wschodu słońca.",
+      "strDrinkThumb": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fresh-home-made-tequila-sunrise-cocktails-royalty-free-image-1581697157.jpg?crop=0.671xw:1.00xh;0.140xw,0&resize=1200:*",
+      "strRating": [4, 3, 2, 5],
+      "strIngredients": ["Tequila", "Sok pomarańczowy", "Sok grenadyny"],
+      "strMeasures": ["60ml", "180ml", "10ml"]
+    },
+    {
+      "idDrink": "18",
+      "strDrink": "Ponchador",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "szklanka koktajlowa",
+      "strInstructions": "Wymieszaj składniki w shakerze z kruszonym lodem, dobrze wstrząśnij i przelej do koktajlowego kieliszka. Posyp cukrem pudrem i posmaruj brzeg kieliszka kremem kokosowym.",
+      "strDrinkThumb": "https://www.joyousapron.com/wp-content/uploads/2019/05/IMG_3521-2.jpg",
+      "strRating": [4, 5, 2, 3],
+      "strIngredients": [
+        "Rum",
+        "Śmietanka kokosowa",
+        "Sok pomarańczowy",
+        "Cukier puder",
+        "Krem kokosowy"
+      ],
+      "strMeasures": ["60ml", "60ml", "60ml", "Do dekoracji", "Do dekoracji"]
+    },
+    {
+      "idDrink": "19",
+      "strDrink": "Mojito de Fresas",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "highball",
+      "strInstructions": "Wsyp cukier do szklanki, dodaj kilka listków mięty, dodaj kilka kostek lodu i kilka pokrojonych truskawek. Wlej kilka kropel soku z limonki i kilka kropli likieru truskawkowego. Zalej wszystko rumem i dolej trochę wody gazowanej. Wymieszaj i podawaj z dodatkową gałązką mięty.",
+      "strDrinkThumb": "https://unareceta.com/wp-content/uploads/2016/08/receta-de-mojito-de-fresas.jpg",
+      "strRating": [4, 3, 5, 2],
+      "strIngredients": [
+        "Cukier",
+        "Mięta",
+        "Lód",
+        "Truskawki",
+        "Sok z limonki",
+        "Likier truskawkowy",
+        "Rum",
+        "Woda gazowana"
+      ],
+      "strMeasures": [
+        "1 łyżeczka",
+        "kilka listków",
+        "kilka kostek",
+        "kilka pokrojonych",
+        "kilka kropel",
+        "kilka kropli",
+        "50ml",
+        "150ml"
+      ]
+    },
+    {
+      "idDrink": "20",
+      "strDrink": "Płyn na bazie skórki z cytryny i octu",
+      "strAlcoholic": "Non-alcoholic",
+      "strGlass": "słoik",
+      "strInstructions": "Wyciśnij sok z cytryny i wymieszaj go z octem. Dodaj skórkę z cytryny i wymieszaj. Wlej do szklanki i gotowe.",
+      "strDrinkThumb": "https://klaudynahebda.pl/wp-content/uploads/2014/12/cytrusy-2-of-3.jpg",
+      "strRating": [1, 2, 1, 2],
+      "strIngredients": ["Sok z cytryny", "Ocet", "Skórka z cytryny"],
+      "strMeasures": ["50ml", "50ml", "1 sztuka"]
+    },
+    {
+      "idDrink": "21",
+      "strDrink": "Syrop z cebuli",
+      "strAlcoholic": "Non-alcoholic",
+      "strGlass": "słoik",
+      "strInstructions": "Zmiel cebulę na tarce o dużych oczkach i wymieszaj z cukrem w równych proporcjach. Odstaw na kilka godzin lub na noc, aż cebula puści sok. Przecedź sok i dodaj do niego kilka kropli soku z cytryny. Podgrzej syrop do wrzenia i odstaw do wystygnięcia. Syrop możesz pić samodzielnie lub dodawać do wody lub innych napojów.",
+      "strDrinkThumb": "https://cdn.galleries.smcloud.net/t/galleries/gf-2VK4-KYcW-Whfg_syrop-z-cebuli-przepis-i-dzialanie-1920x1080-nocrop.jpg",
+      "strRating": [5, 5, 5, 5, 5, 5],
+      "strIngredients": ["Cebula", "Cukier", "Sok z cytryny"],
+      "strMeasures": ["1 sztuka", "100g", "kilka kropli"]
+    }
+  ]
+}

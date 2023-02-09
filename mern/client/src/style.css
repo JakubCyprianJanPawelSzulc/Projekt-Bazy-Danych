@@ -1,0 +1,242 @@
+* {
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+
+.comment {
+  border: 1px solid black;
+  background-color: whitesmoke;
+  width: 50%;
+  align-self: center;
+  padding: 10px;
+  text-align: center;
+}
+.comment-user {
+  width: 100%;
+  overflow-wrap: break-word;
+}
+.comment-contents {
+  width: 100%;
+  overflow-wrap: break-word;
+}
+.comments-list {
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  background-color: gainsboro;
+  margin-left: 0;
+  margin-right: 0;
+}
+:global {
+  font-family: Arial, sans-serif;
+}
+.neon {
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+  outline-color: red;
+  text-shadow: 0 0 5px red, 0 0 10px yellow, 0 0 15px green;
+  animation: neon 0.08s ease-in-out infinite alternate;
+}
+
+@keyframes neon {
+  from {
+    text-shadow: 0 0 5px red, 0 0 10px yellow, 0 0 15px green;
+  }
+  to {
+    text-shadow: 0 0 5px green, 0 0 10px blue, 0 0 15px purple;
+  }
+}
+.drink-image {
+  width: 10em;
+}
+
+.sterne {
+  display: flex;
+  flex-direction: row;
+  color: red;
+}
+.drinks-list {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: gainsboro;
+}
+.search-bar {
+  width: 60%;
+  align-self: center;
+  margin-bottom: 10px;
+}
+
+.der-liste {
+  align-self: center;
+}
+
+.statistics {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input,
+textarea,
+option {
+  border-bottom: solid 1px darkslategray;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: radial-gradient(whitesmoke 50%, gainsboro);
+}
+input,
+textarea:focus {
+  outline: none;
+}
+
+.comment-form-contents {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: yellow;
+  width: 100%;
+  height: 3em;
+  justify-content: space-around;
+}
+.header-button {
+  background-color: yellow;
+  height: 3em;
+  border: none;
+  text-decoration: none;
+}
+.drink-details-image {
+  height: 20em;
+  margin-top: 10px;
+}
+.scroll-to-comments-button {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.header-download-button {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.download-button {
+  border: none;
+  background-color: yellow;
+}
+
+.drink {
+  border: 1px black solid;
+  padding: 10px;
+  width: 100%;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: whitesmoke;
+}
+
+.drink-details-button {
+  width: 50%;
+  height: 30px;
+  border: none;
+  background-color: yellow;
+}
+.gwiazdki {
+  font-size: larger;
+}
+.drink-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.drink-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.drink-details-info {
+  margin-top: 10px;
+  background-color: whitesmoke;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.drink-image {
+  margin-top: 10px;
+}
+
+.pie-chart,
+.bar-chart,
+.doughnut-chart {
+  background-color: whitesmoke;
+  margin: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid lightgrey;
+}
+
+tr:nth-child(even) {
+  background-color: whitesmoke;
+}
+
+th {
+  background-color: yellow;
+  color: black;
+}
+.comment-admin-panel {
+  border: red solid 2px;
+}
+
+.edit-drink-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+}
+.drinks-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+}
+.drinks-form-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+}
+
+.comment-submit-button {
+  background-color: yellow;
+  border: none;
+}
+
+.drinks-alert{
+  align-self: center;
+}
+
+.comments-info{
+  align-self: center;
+}

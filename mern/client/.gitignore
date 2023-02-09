@@ -1,0 +1,24 @@
+# ignoruj pliki tymczasowe
+*.tmp
+*.temp
+
+# ignoruj pliki konfiguracyjne
+*.env
+*.config
+
+# ignoruj pliki zależne od środowiska
+yarn.lock
+package-lock.json
+
+# ignoruj katalog node_modules
+node_modules/
+
+# ignoruj pliki build
+build/
+dist/
+
+# ignoruj pliki cache
+.cache/
+
+# ignoruj pliki debug
+*.log
